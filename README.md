@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Assignment for Coursera Capstone Course
+# Applied Data Sceince Project
+Projects for Coursera Applied Data Science Course
